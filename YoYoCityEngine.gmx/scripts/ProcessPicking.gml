@@ -1,4 +1,4 @@
-/// ProcessPick()
+/// ProcessPicking()
 //
 // Select 3D areas and fill/delete them. Also allow single cube add/remove.
 
